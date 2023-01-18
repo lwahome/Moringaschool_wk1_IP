@@ -1,0 +1,24 @@
+.for-title {
+    color:rgb(98, 34, 187);
+    float: right;
+}
+.body{
+    margin: auto;
+    background-color: rgba(0, 255, 255, 0.801);
+    padding-left: 3%;
+}
+
+    p{
+        background-color: deeppink;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    li{
+        background-color: deeppink;
+        
+    }
+    h4{
+        background-color: deeppink;
+    }
+
+ 
+
